@@ -1,5 +1,5 @@
 
-<h2>Titanic Passanger Survival Analysis</h2>
+<h2>Titanic Passanger Survival Analysis Project</h2>
 
 
 ```python
